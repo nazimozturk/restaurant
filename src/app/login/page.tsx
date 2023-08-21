@@ -38,7 +38,6 @@ const LoginPage = () => {
           <p className="text-sm">
             Have a problem?
             <Link className="underline" href="/">
-              {" "}
               Contact us
             </Link>
           </p>
