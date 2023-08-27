@@ -18,7 +18,3 @@ export const GET = async () => {
     );
   }
 };
-
-export const post = () => {
-  return new NextResponse("Hello World", { status: 200 });
-};
